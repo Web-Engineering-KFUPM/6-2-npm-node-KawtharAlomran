@@ -1,4 +1,4 @@
-import lodsh from "lodash"
+import _ from "lodash"
 export function parseNumbers(input) {
     return {}
 }
